@@ -9,4 +9,9 @@ include(
     "ratelimitter",
     "pub-sub-system",
     "mock-interview-2",
+    "mock-interview-3",
+    "notification-system",
+    "coupon-management-system",
+    "vending-machine",
+    "in-memory-time-series-metrics-store",
 )

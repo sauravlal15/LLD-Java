@@ -14,4 +14,8 @@ include(
     "coupon-management-system",
     "vending-machine",
     "in-memory-time-series-metrics-store",
+    "browser-history",
+    "hashmap",
+    "in-memory-jigsaw-puzzle",
+    "dsa-practice",
 )
